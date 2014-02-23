@@ -1,5 +1,8 @@
 body {
 	font-size: 25px;
+	/*
+	background-image: url('../images/bg-beige.png');
+	*/
 }
 
 h1 {
@@ -16,9 +19,14 @@ h1 {
 }
 
 .text-medium {
-	font-size: 23px;
+	font-size: 25px;
 }
 
 img.hiv-result {
 	width: 230px;
+	margin: 20px;
+}
+
+.cosent-text {
+	font-size: 40px;
 }
