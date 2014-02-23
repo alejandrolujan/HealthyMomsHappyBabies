@@ -1,7 +1,24 @@
 body {
-	font-size: 20px;
+	font-size: 25px;
 }
 
 h1 {
+	font-size: 60px;
 	margin-bottom: 30px;
+}
+
+.panel-title {
+	font-size: 40px;
+}
+
+.vertical-image-sequence img {
+	margin-bottom: 10px;
+}
+
+.text-medium {
+	font-size: 23px;
+}
+
+img.hiv-result {
+	width: 230px;
 }
